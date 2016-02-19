@@ -1,0 +1,14 @@
+{
+  "name": "myowncli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "myowncli.js",
+  "bin": {
+    "myowncli": "myowncli.js"
+  },
+  "dependencies"  : {
+    "commander": ">=1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
